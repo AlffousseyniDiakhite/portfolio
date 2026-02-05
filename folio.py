@@ -7,8 +7,7 @@ st.subheader(" Technicien supérieur en Géomatique ")
 
 
 with st.sidebar:
-    st.image("1015.jpeg")
-    
+   
     
 
     st.markdown("📍 Adresse  ")
