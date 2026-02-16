@@ -36,7 +36,7 @@ with st.sidebar:
     
 st.header("  Profil ")
 st.write("""
-- Techniciens superieur en geomatique un fort intêret pour "" satellittes"" et l'observation de la terre 
+- Technicien superieur en geomatique un fort intêret pour "" satellittes"" et l'observation de la terre 
 Le traitement des données avec une 
 La sécurité des donnés géopatiales. """)
 
@@ -46,24 +46,16 @@ La sécurité des donnés géopatiales. """)
 
 st.header("🧠Compétence Techniques")
 st.write ("""  
-* ArcGis""")
-
-st.write(""" 
-* QGIS""")
-
-st.write("""
-* AutoCad""")
-
-
-st.write("""
-* Sketchup""")
+Dévolopement du Systémes d'informatique Géographie(SIG)
 
 st.write("""
 * 🧑‍💻Pogrammation de python """)
 
 
 st.write("""
-* Matériel bureautique""")
+* Suite bureautique""")
+st.write ("""
+Autocad et Skecthup """)
 
 
 st.header("""✅ Projets""")
