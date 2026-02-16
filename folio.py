@@ -46,7 +46,7 @@ La sécurité des donnés géopatiales. """)
 
 st.header("🧠Compétence Techniques")
 st.write ("""  
-Dévolopement du Systémes d'informatique Géographie(SIG)
+Dévolopement du Systémes d'informatique Géographie(SIG)""")
 
 st.write("""
 * 🧑‍💻Pogrammation de python """)
