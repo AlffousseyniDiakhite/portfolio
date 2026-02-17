@@ -81,7 +81,7 @@ st.write("""
 
 st.write("""
 
-* Geographie Réalisation  de Carte de situation de la zone de LOuga  sur ArcGis """)
+* Geographie Réalisation  de Carte de situation de la zone de Louga,Linguére,Matam et Tambacounda  sur ArcGis """)
 
 st.write("""
 * Numerisation du quartier de Grand Yoff sur QGIS """)
