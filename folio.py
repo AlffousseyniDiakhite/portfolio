@@ -58,8 +58,8 @@ st.write ("""
 Autocad et Skecthup """)
 st.write("""
 Gestion basse données Géographiques""")
- st.write("""
-Base en Carthographie""")
+ st.write("
+Base en Carthographie")
 
 
 
