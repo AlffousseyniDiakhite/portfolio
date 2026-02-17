@@ -54,12 +54,12 @@ st.write("""
 
 st.write("""
 * Suite bureautique""")
- st.write ("""
+st.write ("""
 Autocad et Skecthup """)
 st.write("""
 Gestion basse données Géographiques""")
  st.write("""
-Base en Carthographie
+Base en Carthographie""")
 
 
 
