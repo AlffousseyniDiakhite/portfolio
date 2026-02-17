@@ -68,7 +68,7 @@ st.header("""✅ Projets""")
 
 st.write("""
 
-* Projets de carthographie collécte de données (G15) (Masalikoun)  """)
+* Projets de carthographie collécte de données (G15)et (Masalikoun)  """)
 
 st.write("""
 
@@ -81,7 +81,7 @@ st.write("""
 
 st.write("""
 
-* Geographie Réalisation  de Carte sur ArcGis la région de Louga """)
+* Geographie Réalisation  de Carte de situation de la zonz de LOuga  sur ArcGis """)
 
 st.write("""
 * Numerisation du quartier de Grand Yoff sur QGIS """)
